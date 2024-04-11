@@ -1,6 +1,6 @@
 # Hi there, I'm Fouad! 👋
 
-🚀**About Me** : I'm a AI Engineer with experience in software development. Passionate about innovation and crafting cutting-edge AI solutions.
+**About Me** : I'm a AI Engineer with experience in software development. Passionate about innovation and crafting cutting-edge AI solutions.
 
 <img align="right" alt="most used languages" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfouadlagha&layout=compact&theme=dark">
 
