@@ -1,34 +1,48 @@
-# Hi there, I'm Fouad ! 👋
-<pre>
-  root@me:~$ whoami
-  ├─◈ Software Engineer
-  └───────────────────────────────▰▰▰
-</pre>
-<img align="right" alt="most used languages" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfouadlagha&layout=compact&theme=dark">
+# Hi there, I'm Ahmed! 👋
 
-- 🔭 I’m currently competing on [kaggle](https://www.kaggle.com/ahmedfouadlagha) and [LeetCode](https://leetcode.com/ahmedfouadlagha/)
+<div align="center">
+  
+```ascii
+  ╔═════════════════════════════════════════════════╗
+  ║  PhD Candidate @ ELTE | Machine Learning Research  ║
+  ╚═════════════════════════════════════════════════╝
+```
 
-- 🌱 I’m currently learning more about **Reinforcement learning**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedfouadlagha)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ahmedfouadlagha)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ahmedfouadlagha)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ahmedfouadlagha/)
 
-- ⚙️ I’m looking to collaborate on **NLP/Vision projects**
+</div>
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/ahmedfouadlagha?tab=repositories)
+## About Me
 
-- 📝 I regularly write articles on [Soon](https://fouad.hashnode.dev/)
+I'm a PhD Candidate at ELTE (Eötvös Loránd University) specializing in Synthetic Data Generation and Privacy Preservation. My research focuses on developing methods to generate high-quality synthetic data while ensuring robust privacy guarantees, bridging the gap between data utility and privacy protection in machine learning systems.
 
-- 💬 Ask me about anythings with **NLP/Vision.**
+## Research & Technical Focus
 
-- 📫 How to reach me **laghaahmedfouad@gmail.com**
+```python
+research = {
+    "current_position": "PhD Candidate @ ELTE",
+    "research_areas": [
+        "Synthetic Data Generation",
+        "Privacy Preservation",
+        "Differential Privacy",
+        "Generative Models"
+    ],
+    "interests": ["Reinforcement Learning", "Privacy-Preserving ML", "Responsible AI"],
+    "techniques": ["GANs", "Diffusion Models", "Federated Learning", "Privacy Mechanisms"]
+}
+```
 
-- 📄 Know about my experiences [here]()
+## Connect With Me
 
-- ⚡ Fun fact **Pteronophobia is the fear of being tickled by feathers.**
+I'm always interested in discussing ML/AI projects, collaborating on research, or just having a tech chat!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ahmedfouadlagha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedfouadlagha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmedfouadlagha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-fouad-lagha" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/ahmedfouadlagha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ahmedfouadlagha" height="30" width="40" /></a>
-</p>
+- 📧 Email: **ahmed.lagha@inf.elte.hu**
+- 💼 LinkedIn: [in/ahmed-fouad-lagha](https://www.linkedin.com/in/ahmed-fouad-lagha/)
+- 🐦 X (Twitter): [@ahmedfouadlagha](https://x.com/ahmedfouadlagha)
 
----
+----
+
+Check out my [repositories](https://github.com/ahmedfouadlagha?tab=repositories) to see what I've been working on!
